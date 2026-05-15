@@ -1,2 +1,8 @@
-# aula_modulo_17
-introdução Github
+# aula_modulo_18
+
+Introdução do Github
+
+## Tecnologias
+- pandas;
+- seaborn;
+- matplotlib.
